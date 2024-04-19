@@ -1,0 +1,13 @@
+package recipewebsite.recipewebsitebackend;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class RecipewebsitebackendApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(RecipewebsitebackendApplication.class, args);
+	}
+
+}
